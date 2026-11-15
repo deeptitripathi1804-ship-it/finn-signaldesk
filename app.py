@@ -20,7 +20,7 @@ st.set_page_config(page_title="FINN SignalDesk", page_icon="📡", layout="cente
 # ----------------------------------------------------------------------- style
 st.markdown("""
 <style>
-.block-container{padding-top:1.1rem;padding-bottom:4rem;max-width:760px}
+.block-container{padding-top:3rem;padding-bottom:4rem;max-width:760px}
 html,body,[class*="css"]{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif}
 .finn-h{display:flex;align-items:baseline;gap:.6rem;margin:0 0 .15rem 0}
 .finn-h b{font-size:1.65rem;letter-spacing:-.02em}
