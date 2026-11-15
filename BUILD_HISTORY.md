@@ -40,3 +40,26 @@ Record each of these as: *what I tried → what happened → what I changed.*
 2. Retrieval-first so citations are structural, not generated.
 3. Show the score arithmetic and the calculation strings - an investor should never have to trust a black box.
 4. Say "unavailable" rather than invent data; label the one synthetic feed loudly.
+
+
+## AI Build History
+
+**AI Development Assistant:** ChatGPT (OpenAI)
+
+ChatGPT was used throughout the FINN SignalDesk development lifecycle for:
+
+1. Project planning and architecture decisions.
+2. Python implementation and debugging support.
+3. Test development and validation.
+4. GitHub version control and deployment.
+5. Streamlit deployment troubleshooting and verification.
+
+### ChatGPT Conversation Reference
+
+**FINN SignalDesk — Development, Testing and Deployment**
+
+https://chatgpt.com/share/6af9ca68-1630-83e8-9fd4-e37ed4eb4022
+
+This conversation documents the development workflow,
+testing process, GitHub setup and deployment steps.
+
